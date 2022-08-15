@@ -1,0 +1,11 @@
+0 Mms [DEBUG] 09-04 00:14:23 AM SmsReportService, runnable mErrorStartId is -1 
+0 Mms [DEBUG] 09-04 09:23:42 AM SmsReportService, runnable mErrorStartId is -1 
+0 Mms [DEBUG] 09-04 13:46:03 PM MxStatusService, MxStatusService is on bind 
+50 Mms [DEBUG] 09-04 13:46:03 PM MxStatusService, query mx status by remote service 
+50 Mms [DEBUG] 09-04 13:46:03 PM MxStatusService, cache missed, query the status 
+5612 Mms [DEBUG] 09-04 13:46:08 PM SmsReportService, runnable mErrorStartId is -1 
+10780 Mms [DEBUG] 09-04 13:46:13 PM MxStatusService, MxStatusService is on Unbind 
+10780 Mms [DEBUG] 09-04 13:46:13 PM MxStatusService, MxStatusService is on destroy 
+0 Mms [DEBUG] 09-04 19:52:20 PM SmsReportService, runnable mErrorStartId is -1 
+0 Mms [DEBUG] 09-04 19:52:59 PM SmsReportService, runnable mErrorStartId is -1 
+0 Mms [DEBUG] 09-04 20:47:33 PM SmsReportService, runnable mErrorStartId is -1 
